@@ -1,3 +1,15 @@
+Could rename tables with prefix lab_   to get them to list as a group
+All db access has to be through ifP so need to recode anyway
+need functions in registry to access db
+
+Use T&M flexmain not the version in the cloned repo from LL
+
+Not sure if the create SQL is up to date. (Could sign into GH and see definitions of latest version)
+
+What changes needed for use in TM ?
+
+When messaging to manager etc need collect context (petition? 
+
 notes 
 note_id:int, 
 uuid:uuid, 
